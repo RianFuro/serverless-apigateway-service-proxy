@@ -1,6 +1,6 @@
 {
-  "name": "serverless-apigateway-service-proxy",
-  "version": "2.0.0",
+  "name": "@rianfuro/serverless-apigateway-service-proxy",
+  "version": "2.0.2",
   "description": "The Serverless Framewrok plugin for supporting AWS service proxy integration of API Gateway",
   "main": "lib/index.js",
   "scripts": {
@@ -66,6 +66,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/horike37/serverless-apigateway-service-proxy.git"
+    "url": "https://github.com/RianFuro/serverless-apigateway-service-proxy.git"
   }
 }
